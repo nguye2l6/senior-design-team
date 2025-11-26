@@ -16,7 +16,6 @@
 - Explored different variations of LLM4Decompile (Original Model, SK2)
 - Introduce malware samples into existing binary-source datasets (exebench, decompilebench, idioms)
 - Explore possible tools to build datasets (Pairs of C/C++ and Binary) like CodableLLM
-- Preprocess and refine the datasets that will be utilized in the application to train the LLM models.
 - Integrate LLM fintuned model
 - Train LLM model to analyze executable files and decompile them into C-Code.
 - Test the models analysis of C code and Assembly code.
@@ -30,7 +29,6 @@
 ##### Member: Long Nguyen
 - ###### Tasks assigned:
 	- Research LLM models that could be utilized as an infrastructure and a starting point of the LLM models to be built.
-	- Preprocess and refine the datasets that will be utilized in the application to train the LLM models.
  	- Research and find datasets that will be utilized to train the LLM models.
 	- Integrate LLM fintuned model
 	- Test the models analysis of C code and Assembly code.
