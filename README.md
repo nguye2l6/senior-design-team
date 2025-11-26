@@ -14,8 +14,8 @@
 6. **[PPT Slideshow](./Slides/Presentation.pptx)**
 7. **[Self-Assessment Essays](./SelfAssessments/)**
 8. **[Professional Biographies](./Biographies/Bios.md)**
-9. - [Long Nguyen](./luqman_alhasni_professional_biography.md)
-   - [Luqman Al-Hasni](./nguyen-biom.md)
+9. - [Luqman Al-Hasni](./luqman_alhasni_professional_biography.md)
+   - [Long Nguyen](./nguyen-bio.md)
 10. **[Budget](./Budget/Budget.md)**
 11. **Appendix**
     - [References](./Appendix/References.md)
