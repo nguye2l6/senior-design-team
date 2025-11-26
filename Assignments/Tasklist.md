@@ -13,12 +13,14 @@
 - Research how to utilize Ghidra as a plug-in. 
 - Preprocess and refine the datasets that will be utilized in the application to train the LLM models.
 - Train LLM model to analyze executable files and decompile them into C-Code.
-- Integrate Ghidra as a plug-in to disassemble the executable files into Assembly-code.
 - Test the models analysis of C code and Assembly code.
 - Document the analyzation performance of the built models in comparison to other recent models that target the same criteria.
 - Develop the analyzation page of the application that showcases the analyzation of both C and Assembly codes.
-- Build the malware detection back-end part of the application (still in progress in terms of applicable tools).
 - Develop the malware detection result page of the application.
+- Introduce malware samples into existing binary-source datasets (exebench, decompilebench, idioms)
+- Explored different variations of LLM4Decompile (Original Model, SK2)
+- Explore possible tools to build datasets (Pairs of C/C++ and Binary) like CodableLLM
+- Build a Ghidra plugin
 
 ##### Member: Long Nguyen
 - ###### Tasks assigned:
@@ -27,13 +29,16 @@
 	- Preprocess and refine the datasets that will be utilized in the application to train the LLM models.
 	- Document the analyzation performance of the built models in comparison to other recent models that target the same criteria.
 	- Train LLM model to analyze executable files and decompile them into C-Code.
-	- Develop the malware detection result page of the application. 
+	- Develop the malware detection result page of the application.
+    - Introduce malware samples into existing binary-source datasets (exebench, decompilebench, idioms)
+    - Explored different variations of LLM4Decompile (Original Model, SK2)
+    - Introduce malware samples into existing binary-source datasets (exebench, decompilebench, idioms
     
 
 ##### Member: Luqman Al Hasni
 - ###### Tasks assigned:
 	- Research how to utilize Ghidra as a plug-in.
-	- Integrate Ghidra as a plug-in to disassemble the executable files into Assembly-code.
 	- Develop the malware detection result page of the application. 
-	- Build the malware detection back-end part of the application (still in progress in terms of applicable tools).
+	- Explore possible tools to build datasets (Pairs of C/C++ and Binary) like CodableLLM
 	- Develop the analyzation page of the application that showcases the analyzation of both C and Assembly codes.
+    - Build a Ghidra plugin
