@@ -14,7 +14,7 @@
 6. **[PPT Slideshow](./Slides/Presentation.pptx)**
 7. **[Self-Assessment Essays](./SelfAssessments/)**
    - [Luqman Al-Hasni](./Assignments/Homework_essays/Luqman’s_Individual_Assessment_Capstone-1.md)
-   - [Long Nguyen](./Assignments/Homework_essays/A3-Individual (1).pdf)
+   - [Long Nguyen](./Assignments/Homework_essays/A3-Individual%20(1).pdf)
 8. **[Professional Biographies](./Biographies/Bios.md)**
    - [Luqman Al-Hasni](./luqman_alhasni_professional_biography.md)
    - [Long Nguyen](./nguyen-bio.md)
