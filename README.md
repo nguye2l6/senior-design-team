@@ -1,3 +1,5 @@
+# Title of Contents
+
 1. **[Team Info & Abstract](./Team_and_Project_Abstract.md)**
 2. **[Project Description](./project-description.md)**
 3. **User Stories & Design Diagrams**
