@@ -13,10 +13,12 @@
 5. **[ABET Concerns Essay](./ABET-Concerns-Essay/ABET_Constraint_Essay.pdf)**
 6. **[PPT Slideshow](./Slides/Presentation.pptx)**
 7. **[Self-Assessment Essays](./SelfAssessments/)**
+   - [Luqman Al-Hasni](./Assignments/Homework_essays/Luqman’s_Individual_Assessment_Capstone-1.md)
+   - [Long Nguyen](./Assignments/Homework_essays/A3-Individual (1).pdf)
 8. **[Professional Biographies](./Biographies/Bios.md)**
-9. - [Luqman Al-Hasni](./luqman_alhasni_professional_biography.md)
+   - [Luqman Al-Hasni](./luqman_alhasni_professional_biography.md)
    - [Long Nguyen](./nguyen-bio.md)
-10. **[Budget](./Budget/Budget.md)**
-11. **Appendix**
+9. **[Budget](./budget.md)**
+10. **Appendix**
     - [References](./Appendix/References.md)
     - [Code Repository Links](./Appendix/RepoLinks.md)
