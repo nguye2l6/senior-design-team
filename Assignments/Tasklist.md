@@ -32,7 +32,6 @@
 	- Develop the malware detection result page of the application.
     - Introduce malware samples into existing binary-source datasets (exebench, decompilebench, idioms)
     - Explored different variations of LLM4Decompile (Original Model, SK2)
-    - Introduce malware samples into existing binary-source datasets (exebench, decompilebench, idioms
     
 
 ##### Member: Luqman Al Hasni
@@ -42,3 +41,4 @@
 	- Explore possible tools to build datasets (Pairs of C/C++ and Binary) like CodableLLM
 	- Develop the analyzation page of the application that showcases the analyzation of both C and Assembly codes.
     - Build a Ghidra plugin
+
