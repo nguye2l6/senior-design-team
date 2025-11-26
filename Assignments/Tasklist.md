@@ -36,9 +36,12 @@
 
 ##### Member: Luqman Al Hasni
 - ###### Tasks assigned:
-	- Research how to utilize Ghidra as a plug-in.
-	- Develop the malware detection result page of the application. 
-	- Explore possible tools to build datasets (Pairs of C/C++ and Binary) like CodableLLM
-	- Develop the analyzation page of the application that showcases the analyzation of both C and Assembly codes.
-    - Build a Ghidra plugin
+	-    Research how to utilize Ghidra as a plug-in.
+	-    Explore possible tools to build datasets (Pairs of C/C++ and Binary) like CodableLLM 
+	-    Train LLM model to analyze executable files and decompile them into C-Code.
+	-    Document the analyzation performance of the built models in comparison to other recent models that target the same criteria.
+	-    Develop the analyzation page of the application that showcases the analyzation of both C and Assembly codes.
+	-    Develop the malware detection result page of the MalAI
+	-    Deploy MalAI(If feasible)	
+
 
