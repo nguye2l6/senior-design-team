@@ -4,9 +4,9 @@
 2. **[Project Description](./project-description.md)**
 3. **User Stories & Design Diagrams**
    - [User Stories](./User-Stories-and-Design-Diagrams/User-Stories.md)
-   - [Level 0 Diagram](./Design_Diagrams/D0.png)
-   - [Level 1 Diagram](./Design_Diagrams/D1.png)
-   - [Level 2 Diagram](./Design_Diagrams/D2.png)
+   - [Level 0 Diagram](./User-Stories-and-Design-Diagrams/D0.png)
+   - [Level 1 Diagram](./User-Stories-and-Design-Diagrams/D1.png)
+   - [Level 2 Diagram](./User-Stories-and-Design-Diagrams/D2.png)
 4. **Project Tasks & Timeline**
    - [Task List](./Assignments/Tasklist.md)
    - [Timeline and Effort Matrix](./Project-Tasks-and-Timeline/Senior Design_ Milestones, Timeline, and Matrix Effort.pdf.md)
