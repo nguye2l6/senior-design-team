@@ -20,5 +20,4 @@
    - [Long Nguyen](./nguyen-bio.md)
 9. **[Budget](./budget.md)**
 10. **Appendix**
-    - [References](./Appendix/References.md)
-    - [Code Repository Links](./Appendix/RepoLinks.md)
+    - [References/Code Repos](./appendix/references.md)
