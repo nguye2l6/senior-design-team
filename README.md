@@ -11,7 +11,7 @@
    - [Task List](./Assignments/Tasklist.md)
    - [Timeline and Effort Matrix](./Project-Tasks-and-Timeline/Timeline_and_Matrix_Effort.pdf)
 5. **[ABET Concerns Essay](./ABET-Concerns-Essay/ABET_Constraint_Essay.pdf)**
-6. **[PPT Slideshow](./SlideShow/MalAI_slides.pptx)**
+6. **[PPT Slideshow](./SlideShow/README.md)**
 7. **[Self-Assessment Essays](./SelfAssessments/)**
    - [Luqman Al-Hasni](./Assignments/Homework_essays/Luqman’s_Individual_Assessment_Capstone-1.md)
    - [Long Nguyen](./Assignments/Homework_essays/A3-Individual%20(1).pdf)
