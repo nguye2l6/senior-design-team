@@ -30,7 +30,7 @@ To install MalAI plugin in Ghidra:
 8) After restarting Ghidra, click on "file" from the tool bar again and then click on "Install Extensions". You should see MalAI plugin installed as the below image showcase. 
 
 
-![image](https://hackmd.io/_uploads/ry6KNNYPbe.png)
+![image](install_extension.png)
 
 
 
