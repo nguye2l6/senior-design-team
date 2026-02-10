@@ -43,27 +43,27 @@ To start using Ghidra you need first to create a project to be used or use an ex
 
 To Create a new project, click on file from the tool bar then choose a "New Project" option, after choosing that option you will be asked to choose wheather the project is shared or not, choose one and a window as below will be displayed. Type the name of the project and choose the location of the folder to be used.
 
-![image](https://hackmd.io/_uploads/Hyjy6fYPWl.png)
+![image](new_project.png)
 #### Using existing project
 
 If you have an existing project, click on file from the tool bar then choose "Open Project". After choosing that option, locate the project folder. After choosing the project, you will be directed to the below window which is under the project name.
 
 **Note**: Project folder should end with .gpr extension.
 
-![image](https://hackmd.io/_uploads/B1dzTztvbl.png)
+![image](project_dir.png)
 
 #### Choosing the file to be decompiled
 
 Once a project is selected, the project folder tree will displayed as below, browse the folder and choose the file to be decompiled.
-![image](https://hackmd.io/_uploads/rJVVTfFPZl.png)
+![image](code_browser.png)
 
 #### Selecting MalAI plugin
 
 By clicking in the window option from the tool bar, a number of tools will be displayed, Choose MalAI_Plugin
-![image](https://hackmd.io/_uploads/Hyf7FmtvZx.png)
+![image](plugin_window.png)
 
 The pluign window would look like as below. In this window the decompiled code will be shown.
-![image](https://hackmd.io/_uploads/BySUY7tPWe.png)
+![image](malai_plugin.png)
 
 #### Detecting Malware
 To detect Malware click on the "Malware Detection" button at the tool bar of the MalAI_Plugin window. Once the button is clicked, a message will be invoked returning wheather the file is malicious or not. 
