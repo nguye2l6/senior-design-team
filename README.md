@@ -7,7 +7,7 @@
 5. **[Spring PPT Slideshow](./SlideShow/MalAI_slides_Spring_2026.pdf)**
 6. **[Final Expo Poster](./SlideShow/seniordesignposter.pdf)**
 7. **TODO [Self-Assessment Essays](./SelfAssessments/)**
-   - [Luqman Al-Hasni](./Assignments/Homework_essays/Luqman’s_Individual_Assessment_Capstone-1.md)
+   - [Luqman Al-Hasni](./Assignments/Homework_essays/Luqman_Final_self_assessment.pdf.md)
    - [Long Nguyen](./Assignments/Homework_essays/Nguyen_FinalAssessment.pdf)
 8. **[TODO Summary of Hours](./Biographies/Bios.md)**
 9. **[Budget](./budget.md)**
