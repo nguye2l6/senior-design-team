@@ -1,8 +1,7 @@
 # Table of Contents
 
-1. **[Team Info & Abstract](./Team_and_Project_Abstract.md)**
-2. **[Project Description](./project-description.md)**
-3. **[User Guide](./User-Guide/user-guide.md)**
+1. **[Team Info & Project Description](./Team_and_Project_Abstract.md)**
+2. **TODO [User Interface Specification](./User-Guide/user-guide.md)**
 4. **User Stories & Design Diagrams**
    - [User Stories](./User-Stories-and-Design-Diagrams/User-Stories.md)
    - [Level 0 Diagram](./User-Stories-and-Design-Diagrams/Design-Diagrams/D0.png)
