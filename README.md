@@ -8,7 +8,7 @@
 6. **[Final Expo Poster](./SlideShow/seniordesignposter.pdf)**
 7. **TODO [Self-Assessment Essays](./SelfAssessments/)**
    - [Luqman Al-Hasni](./Assignments/Homework_essays/Luqman’s_Individual_Assessment_Capstone-1.md)
-   - [Long Nguyen](./Assignments/Homework_essays/A3-Individual%20(1).pdf)
+   - [Long Nguyen](./Assignments/Homework_essays/Nguyen_FinalAssessment.pdf)
 8. **[TODO Summary of Hours](./Biographies/Bios.md)**
 9. **[Budget](./budget.md)**
 10. **Appendix**
