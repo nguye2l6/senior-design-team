@@ -9,7 +9,7 @@
 7. **[Self-Assessment Essays](./SelfAssessments/)**
    - [Luqman Al-Hasni](./Assignments/Homework_essays/Luqman_Final_self_assessment.pdf)
    - [Long Nguyen](./Assignments/Homework_essays/Nguyen_FinalAssessment.pdf)
-8. **[TODO Summary of Hours](./Biographies/Bios.md)**
+8. **[TODO Summary of Hours](./Effort-Matrix/Readme.md)**
 9. **[Budget](./budget.md)**
 10. **Appendix**
     - [References/Code Repos](./appendix/references.md)
