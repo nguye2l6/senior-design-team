@@ -20,10 +20,10 @@ Upon choosing a file to analyze and opening the MalAI plugin via the tool bar in
 Via the Decompilation button, the user could browse the disassembled code and decompile each function and compare Ghidra's and MalAI. Whereas the Malware Detection button will take the whole bytes of the file and pass them to Malware Detection model, so if it was to be pressed again it would, presumably, the same results.
 
 
-![[MalAI_Ghidra_Plugin_1.png]]
+![image](MalAI_Ghidra_Plugin_1.png)
 Figure 1: User Interface before clicking "Decompilation ASM" button
 
 
-![[MalAI_Ghidra_Plugin_2.png|697]]
+![image](MalAI_Ghidra_Plugin_2.png)
 Figure 2: User Interface after clicking "Decompilation ASM" button
 
