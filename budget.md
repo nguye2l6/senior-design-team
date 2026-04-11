@@ -1,3 +1,4 @@
 # Budget
 
-There has not been any expenses to date.
+- Student-Tier Google Colab for Model Finetuning
+- Nvidia A100 GPU Container from UC Digital Futures Server
